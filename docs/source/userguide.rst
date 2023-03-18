@@ -6,7 +6,6 @@ To Create a New Notebook
 ------------------------
 #. Open *NotedELN*. The start page appears.
 #. On the start page, click **Create new notebook**. The *Create new notebook* window appears.
-   |create-new|
 #. In the *Location* field, enter the location to store the notebook, and click **OK**. The new notebook opens.
    |new|
 
