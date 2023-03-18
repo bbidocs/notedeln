@@ -5,6 +5,7 @@ Use the following guide to get started using NotedELN.
 To Create a New Notebook
 ------------------------
 #. Open *NotedELN*. The start page appears.
+   |start-page|
 #. On the start page, click **Create new notebook**. The *Create new notebook* window appears.
 #. In the *Location* field, enter the location to store the notebook, and click **OK**. The new notebook opens.
 
@@ -12,6 +13,8 @@ To Create a New Notebook
    You can configure the notebook to be archived locally or remotely using Git. 
    For more information see Archiving (needs link).
 
+.. |start-page| image:: start_page.png
+              :class: no-scaled-link  
 
 When NotedELN starts, it displays a list of recent notebooks and also
 offers the choice of opening a notebook that is not on the list or to
