@@ -1,16 +1,17 @@
-Essential note taking
-=====================
+Quickstart Guide
+================
+Use the following guide to get started using NotedELN.
 
-NotedELN has a deliberately sparse user interface intended to
-encourage you to write notes without demanding too much of your
-attention for technicalities and esthetical choices. It is the
-author’s hope that the simplicity of the system will allow users to
-come to experience note taking as a natural and unremarkable part of
-their experimental work and data analysis rather than as a separate
-chore.
-
-Creating a new notebook
+To Create a New Notebook
 ------------------------
+#. Open *NotedELN*. The start page appears.
+#. On the start page, click **Create new notebook**. The *Create new notebook* window appears.
+#. In the *Location* field, enter the location to store the notebook, and click **OK**. The new notebook opens.
+
+.. note::
+   You can configure the notebook to be archived locally or remotely using Git. 
+   For more information see Archiving (needs link).
+
 
 When NotedELN starts, it displays a list of recent notebooks and also
 offers the choice of opening a notebook that is not on the list or to
